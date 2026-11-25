@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.DS_Store
+.idea/
+.vscode/
+*.log
+
+# Auto-generated on first run from raw SDF/CSV (~121 MB)
+data/BBBP/processed/
